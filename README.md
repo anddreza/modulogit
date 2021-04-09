@@ -15,6 +15,3 @@ Alteração no README para descrever melhor meus sistemas.
 Modificação para o branch master
 ========
 Meu primeiro sistema no GIT (alterado e atualizado!)
-
-
-Alteração reset
